@@ -1,8 +1,6 @@
 # 📊 Power BI Project: AdventureWorks Sales Report
 
-This Power BI dashboard was created as part of the [Maven Analytics Power BI Course](https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/), using the AdventureWorks dataset.  
-The dataset simulates sales data from a global retail company specializing in bicycles, accessories, and related equipment.  
-The goal was to apply real-world reporting skills and build an executive-ready dashboard covering core sales KPIs and visual exploration.
+This Power BI dashboard was created as part of the [Maven Analytics Power BI Course](https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/), using the AdventureWorks dataset. The dataset simulates sales data from a global retail company specializing in bicycles, accessories, and related equipment. The goal was to apply real-world reporting skills and build an executive-ready dashboard covering core sales KPIs and visual exploration.
 
 
 ## 🌐 Live Report
